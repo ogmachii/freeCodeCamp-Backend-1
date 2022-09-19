@@ -1,5 +1,6 @@
 {
 	"author":"Chase Shumaker",
+	"description":"A new npm package that displays a website",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
