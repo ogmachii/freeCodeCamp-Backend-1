@@ -3,6 +3,7 @@
 	"description":"A new npm package that displays a website",
 	"keywords": ["freecodecamp", "website", "simple", "beginner"],
 	"license":"MIT",
+	"version":"1.5",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
